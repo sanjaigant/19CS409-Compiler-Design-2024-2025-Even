@@ -1,6 +1,6 @@
 # Ex. No : 1	
 # IMPLEMENTATION OF SYMBOL TABLE 
-## NAME:sanjai gsnth.B
+## NAME:sanjai ganth.B
 ## Register Number :212224230244
 ## Date : 09-03-2026
 
